@@ -307,3 +307,11 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+
+.credits {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 1px;
+}
